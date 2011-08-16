@@ -2,4 +2,4 @@ I used to use Oh My Zsh for my Zsh configuration, but it had a lot of features t
 
 To install, run the following command:
 
-    `/bin/sh < <(curl -s https://raw.github.com/CarterA/Zsh/master/Install.sh`
+    /bin/sh < <(curl -s https://raw.github.com/CarterA/Zsh/master/Install.sh
