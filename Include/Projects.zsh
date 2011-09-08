@@ -1,5 +1,4 @@
-CZKit=/Users/carterallen/Development/Mac/Frameworks/CZKit
-CardKit=/Users/carterallen/Development/iPhone/Libraries/CardKit
-Blog=/Users/carterallen/Development/Web/Blog
-Sensations=/Users/carterallen/Development/iPhone/Apps/Sensations
-Tribo=/Users/carterallen/Development/Web/Tribo
+alias cdfs="cd '$HOME/Development/iOS/Apps/Five Square'"
+alias cdss="cd '$HOME/Development/iOS/Apps/Sensations'"
+alias cdbl="cd '$HOME/Development/iOS/Apps/Five Square'"
+alias cdzsh="cd '$HOME/etc/Zsh'"
